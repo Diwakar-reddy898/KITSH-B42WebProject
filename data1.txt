@@ -1,6 +1,12 @@
 documentation of the services
+<<<<<<< Updated upstream
 #3pm changes
 working on usermodule 
 policy applicable
 eligibility 
 codehere
+=======
+#6pm changes
+payment gateway module 
+code here
+>>>>>>> Stashed changes
