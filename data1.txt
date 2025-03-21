@@ -1,5 +1,6 @@
 documentation of the services
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #3pm changes
 working on usermodule 
 policy applicable
@@ -9,4 +10,10 @@ codehere
 #6pm changes
 payment gateway module 
 code here
+>>>>>>> Stashed changes
+=======
+#developer make changes@11:30am
+deployment process
+employee policies
+relevant code
 >>>>>>> Stashed changes
